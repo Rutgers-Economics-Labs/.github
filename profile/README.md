@@ -18,22 +18,22 @@ Our main public-facing website built with Next.js and TypeScript. Visit [rutgers
 
 **Tech Stack**: Next.js, TypeScript, React, TailwindCSS
 
-### [Clean Energy Funding Analysis (Fall 2024)](https://github.com/Rutgers-Economics-Labs/CleanEnergyFundingF24)
-A comprehensive analysis of clean energy funding patterns and their economic impact. This project examines alternative fuel vehicle (AFV) adoption, battery cost models, and registration trends using Python and Jupyter notebooks.
+### New Jersey Population & Labor Force Projections (Fall 2025)
+An ongoing research project utilizing NJ demographic data to forcast NJ's population and labor force growth using the cohort component method. 
 
-**Research Focus**: Clean energy economics, vehicle electrification, funding policy analysis
+**Research Focus**: labor economics, forecasting, population economics
 
 **Tech Stack**: Python, Jupyter, Pandas, R
 
-### [Virginia Prisoners Study (Fall 2025)](https://github.com/Rutgers-Economics-Labs/VA_Prisoners_F25)
+### Virginia Prisoners Study (Fall 2025)
 An ongoing research project analyzing incarceration patterns and economic outcomes in Virginia.
 
 **Research Focus**: Criminal justice economics, labor economics, policy analysis
 
 ## 📚 Repository Structure
 
-- **rutgers-economics-labs.github.io**: Main organizational website and public presence
-- **Research Projects**: Semester-based research initiatives (e.g., CleanEnergyFundingF24, VA_Prisoners_F25)
+- **rutgerseconomics.org**: Main organizational website and public presence
+- **Research Projects**: Semester-based research initiatives 
 - **Infrastructure Repositories**: Supporting tools and configurations for our research work
 
 ## 🤝 Getting Involved
