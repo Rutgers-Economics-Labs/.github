@@ -16,14 +16,10 @@ Rutgers Economics Labs bridges the gap between economic theory and real-world ap
 ### [Official Website](https://github.com/Rutgers-Economics-Labs/rutgers-economics-labs.github.io)
 Our main public-facing website built with Next.js and TypeScript. Visit [rutgerseconomics.org](https://www.rutgerseconomics.org/) to learn more about our programs, research, and opportunities.
 
-**Tech Stack**: Next.js, TypeScript, React, TailwindCSS
-
 ### New Jersey Population & Labor Force Projections (Fall 2025)
 An ongoing research project utilizing NJ demographic data to forcast NJ's population and labor force growth using the cohort component method. 
 
 **Research Focus**: labor economics, forecasting, population economics
-
-**Tech Stack**: Python, Jupyter, Pandas, R
 
 ### Virginia Prisoners Study (Fall 2025)
 An ongoing research project analyzing incarceration patterns and economic outcomes in Virginia.
